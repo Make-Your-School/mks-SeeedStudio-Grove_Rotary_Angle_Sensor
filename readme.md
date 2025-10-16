@@ -30,8 +30,6 @@ Eine der häufigsten Anwendungen eines Drehwinkelsensors (oder Drehpotentiometer
 Alle weiteren Hintergrundinformationen sowie ein Beispielaufbau und alle notwendigen Programmbibliotheken sind auf dem offiziellen Wiki (bisher nur in englischer Sprache) von Seeed Studio zusammengefasst. Zusätzlich findet man über alle gängigen Suchmaschinen durch die Eingabe der genauen Komponentenbezeichnungen entsprechende Projektbeispiele und Tutorials.
 
 <!-- infolist -->
-
-<!-- infolists -->
 ## Wichtige Links für die ersten Schritte:
 
 - [Seeed Studio Wiki](http://wiki.seeedstudio.com/Grove-Rotary_Angle_Sensor/) [- Drehwinkelsensor](http://wiki.seeedstudio.com/Grove-Rotary_Angle_Sensor/)
