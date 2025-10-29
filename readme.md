@@ -15,6 +15,9 @@ clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-Grove_Rotary_Ang
 repo_prefix: "mks"
 repo_part: "Grove_Rotary_Angle_Sensor"
 embedded_example_file: "examples/Grove_Rotary_Angle_Sensor_minimal/Grove_Rotary_Angle_Sensor_minimal.ino"
+title: 'Drehwinkelsensor'
+status: 'active'
+difficulty: 'recommend'
 ---
 
 
